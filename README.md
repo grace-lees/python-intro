@@ -1,3 +1,3 @@
 # python-intro
 Python basics 
-Exploring foundations
+Exploring Python foundations
